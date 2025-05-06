@@ -20,8 +20,8 @@ Katherine M. Xiang<sup>1</sup>, Hana Lampson<sup>1</sup>, Rebecca Frank Hayward<
 
 `MFE_kinetic_model.m` : MATLAB script for simulating the kinetic photophysical model of the mScarlet3/FMN/FMNH~2~ magnetic field effect. 
 
-`SCRP_spin_sim.m` : MATLAB script for simulating spin dynamics. Includes code for simulating a single spin precessing in an arbitrary static magnetic field, and for an uninteracting two-spin system in separate arbitrary static magnetic fields. 
+`SCRP_spin_sim.m` : MATLAB script for simulating spin dynamics. Includes code for simulating a single spin precessing in an arbitrary static magnetic field, and for a non-interacting two-spin system in separate arbitrary static magnetic fields. 
 
-`SCRP_spin_and_chem_sim.m` : MATLAB script for incorporating chemical reactions to the spin simulations to simulate SCRP separation and recombination. The function `spin_chem_sim` numerically computes the time evolution, while the function `spin_chem_sim_analytical` uses the analytical expressions derived in `spin_dynamics.nb` which is faster.
+`SCRP_spin_and_chem_sim.m` : MATLAB script for incorporating chemical reactions to the spin simulation,  to simulate SCRP separation and recombination. The function `spin_chem_sim` numerically computes the SCRP time evolution, while the function `spin_chem_sim_analytical` uses the analytical expressions derived in `spin_dynamics.nb`, which is faster.
 
 `spin_dynamics.nb` : Mathematica notebook with derivations for the time evolution of  $T_0$ and $T_+$-born SCRPs in arbitrary static magnetic fields, and the corresponding singlet and triplet probabilities as a function of time. 
