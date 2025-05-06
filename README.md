@@ -4,15 +4,15 @@
 
 #### Mechanism of giant magnetic field effect in a red fluorescent protein
 
-Katherine M. Xiang^1^, Hana Lampson^1^, Rebecca Frank Hayward^2^, Andrew G. York^4^, Maria Ingaramo^4^, Adam E. Cohen^1,3^ * 
+Katherine M. Xiang<sup>1</sup>, Hana Lampson<sup>1</sup>, Rebecca Frank Hayward<sup>2</sup>, Andrew G. York<sup>4</sup>, Maria Ingaramo<sup>4</sup>, Adam E. Cohen<sup>1,3</sup> * 
 
-^1^Department of Physics, Harvard University, Cambridge, MA 02138, USA
+<sup>1</sup>Department of Physics, Harvard University, Cambridge, MA 02138, USA
 
-^2^School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138, USA
+<sup>2</sup>School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138, USA
 
-^3^Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA 02138, USA
+<sup>3</sup>Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA 02138, USA
 
-^4^Calico Life Sciences LLC, South San Francisco, CA 94080, USA
+<sup>4</sup>Calico Life Sciences LLC, South San Francisco, CA 94080, USA
 
 ---
 
