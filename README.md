@@ -19,7 +19,7 @@ Katherine M. Xiang<sup>1</sup>, Hana Lampson<sup>1</sup>, Rebecca Frank Hayward<
 
 #### Description of files:
 
-`MFE_kinetic_model.m` : MATLAB script for simulating the kinetic photophysical model of the mScarlet3/FMN/FMNH~2~ magnetic field effect. 
+`MFE_kinetic_model.m` : MATLAB script for simulating the kinetic photophysical model of the mScarlet3/FMN/FMNH<sub>2</sub> magnetic field effect. 
 
 `SCRP_spin_sim.m` : MATLAB script for simulating spin dynamics. Includes code for simulating a single spin precessing in an arbitrary static magnetic field, and for a non-interacting two-spin system in separate arbitrary static magnetic fields. 
 
