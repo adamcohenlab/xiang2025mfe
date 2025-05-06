@@ -13,7 +13,7 @@ Katherine M. Xiang<sup>1</sup>, Hana Lampson<sup>1</sup>, Rebecca Frank Hayward<
 <sup>3</sup>Department of Chemistry and Chemical Biology, Harvard University, Cambridge, MA 02138, USA
 
 <sup>4</sup>Calico Life Sciences LLC, South San Francisco, CA 94080, USA
-* cohen@chemistry.harvard.edu
+\* cohen@chemistry.harvard.edu
 
 ---
 
