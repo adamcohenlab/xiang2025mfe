@@ -96,8 +96,8 @@ function dydt = MFE_model_trackedFMN(t,y,params)
   else
         beta = beta0;
   end
-  dydt(1) = -(kisc*lis)/(ksr + kisc)*y(1) + (ktr + (1-beta)*kred)*y(5)*y(2) + kox*y(4)*y(3); % mSc3 ground state
-  dydt(2) = +(kisc*lis)/(ksr + kisc)*y(1) -(ktr + kred)*y(5)*y(2); % mSc3 triplet
+  dydt(1) = -(kisc*lis)/(ksr + kisc)*y(1) + (ktr + (1-beta)*kred*y(5))*y(2) + kox*y(4)*y(3); % mSc3 ground state
+  dydt(2) = +(kisc*lis)/(ksr + kisc)*y(1) -ktr*y(2) - kred*y(5)*y(2); % mSc3 triplet
   dydt(3) = beta*kred*y(5)*y(2) - kox*y(4)*y(3); % mSc radical
   dydt(4) = -kox*y(4)*y(3) + kdis*y(6)^2; % FMN
   dydt(5) = -beta*kred*y(5)*y(2) + kdis*y(6)^2; % FMNH2
